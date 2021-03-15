@@ -33,7 +33,8 @@
         "########################"
       ],
       "palettes": [ "multistory_house", "lower_level" ],
-      "furniture": { "$": "f_safe_l" }
+      "furniture": { "$": "f_safe_l" },
+      "items": { "$": { "item": "art", "chance": 75 } }
     }
   }
 ]

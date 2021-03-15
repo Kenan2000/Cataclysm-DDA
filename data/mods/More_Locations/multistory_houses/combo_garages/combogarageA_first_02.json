@@ -22,7 +22,7 @@
         "              =fffeeff##",
         "              =######F##",
         "---1      1  C=######F##",
-        "  H|         C=#^#^##F##",
+        "   |         C=#^#^##F##",
         "   +      CCCC=#^#^##F##",
         "========++=====#^#^##F##",
         "#######F#############F##",
@@ -34,7 +34,6 @@
       ],
       "palettes": [ "multistory_house", "ground_level" ],
       "terrain": { " ": "t_concrete_floor", "^": "t_dirtmound", ",": "t_pavement" },
-      "furniture": { "H": "f_dumpster" },
       "vehicles": {
         "V": { "vehicle": "beetle", "chance": 50, "fuel": 50, "status": 1 },
         "v": { "vehicle": "bicycle", "chance": 30, "fuel": 50, "status": 1 }

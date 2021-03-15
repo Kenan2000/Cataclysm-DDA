@@ -25,16 +25,21 @@
         ",,,||........C|         ",
         ",,,||...WCWCRC|         ",
         ",,,||-+--------    -----",
-        ",,,||u           <<|----",
-        ",,,||u           <<||,,,",
+        ",,,||v           <<|----",
+        ",,,||V           <<||,,,",
         ",,,|----  ----------|,ww",
-        ",,,----|  |x...x|----,ww",
-        ",,,,,,||  |.c.xx||,,,,ww",
-        ",,,,,,||  +...x.||,wwwww",
+        ",,,----|  |^...^|----,ww",
+        ",,,,,,||  |.c.^^||,,,,ww",
+        ",,,,,,||  +...^.||,wwwww",
         ",,,,,,||  |.....||,wwwww"
       ],
       "palettes": [ "mil_outpost_bandit" ],
-      "mapping": { "W": { "item": { "item": "2x4" }, "furniture": "f_woodstove", "fields": { "field": "fd_fire" } } }
+      "furniture": { "^": [ "f_null", "f_null", "f_rubble" ] },
+      "mapping": { "W": { "item": { "item": "2x4" }, "furniture": "f_woodstove", "fields": { "field": "fd_fire" } } },
+      "vehicles": {
+        "v": { "vehicle": "welding_cart", "chance": 25, "fuel": 0, "status": 3 },
+        "V": { "vehicle": "handjack", "chance": 25, "fuel": 0, "status": 3 }
+      }
     }
   }
 ]

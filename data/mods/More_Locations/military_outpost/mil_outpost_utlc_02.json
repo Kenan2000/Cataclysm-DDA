@@ -22,7 +22,7 @@
         "##|  *...gHg...M........",
         "##|  MM..ggg..MM----ffff",
         "##|   MM.....MM    |....",
-        "##|    MM...MM     |.Z..",
+        "##|    MM...MM     |.3..",
         "##|     MM.MM      |....",
         "##|      MMM       -----",
         "##|                     ",
@@ -34,8 +34,7 @@
         "#######|  |#############"
       ],
       "palettes": [ "mil_outpost_underground" ],
-      "terrain": { "H": "t_plut_generator" },
-      "monster": { "Z": { "monster": "mon_zombie_dog" } }
+      "terrain": { "H": "t_plut_generator" }
     }
   }
 ]

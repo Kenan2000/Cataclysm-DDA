@@ -9,8 +9,8 @@
       "rows": [
         "########################",
         "########################",
-        "#########1rrrrr1rrrrr1##",
-        "#########rrrrrrrrrrrrr##",
+        "#########1,,,,,1,,,,,1##",
+        "#########,,,,,,,,,,,,,##",
         "#####-----w-+-w--w--w---",
         "#####|TT          b| nnn",
         "#####|TTc     AAA  |z   ",
@@ -33,7 +33,8 @@
         "########################"
       ],
       "palettes": [ "multistory_house", "upper_level" ],
-      "monster": { "z": { "monster": "mon_zombie" } }
+      "terrain": { ",": "t_concrete_floor" },
+      "furniture": { "z": "f_exercise" }
     }
   }
 ]

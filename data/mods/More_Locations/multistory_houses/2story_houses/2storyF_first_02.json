@@ -28,12 +28,11 @@
         "##=    TT  *        C=##",
         "##=bb      |UU CosCCU=##",
         "##=====ww=====+=======##",
-        "##################HH####",
+        "########################",
         "########################",
         "########################"
       ],
-      "palettes": [ "multistory_house", "ground_level" ],
-      "furniture": { "H": "f_dumpster" }
+      "palettes": [ "multistory_house", "ground_level" ]
     }
   }
 ]

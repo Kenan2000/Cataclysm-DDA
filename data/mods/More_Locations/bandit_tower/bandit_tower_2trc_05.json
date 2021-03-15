@@ -27,7 +27,7 @@
         "###|BB.....BB|..=======.",
         "###|d...@@..d|..=====Mee",
         "###wBB.....BB|..==<<<Mee",
-        "###wd...,,..d|....<<<Mee",
+        "###wd.......d|....<<<Mee",
         "###|BB.....BB|....<<<Mee",
         "###|d.......d|..=MMMMMMM",
         "###|BB.lll.BB|..=eeeeM==",
@@ -35,7 +35,7 @@
       ],
       "rotation": 1,
       "palettes": [ "tri_tower", "upper_level", "bandit_tower_stuff" ],
-      "terrain": { "5": "t_pavement", "8": "t_bridge", ",": "t_linoleum_white" },
+      "terrain": { "5": "t_pavement", "8": "t_bridge" },
       "items": { "l": { "item": "cleaning", "chance": 55 } },
       "npcs": { "@": { "class": "thug" } }
     }

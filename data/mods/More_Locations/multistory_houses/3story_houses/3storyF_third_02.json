@@ -33,7 +33,7 @@
         "########################"
       ],
       "palettes": [ "multistory_house", "upper_level" ],
-      "monster": { "z": { "monster": "mon_zombie" }, "y": { "monster": "mon_zombie_dog" }, "Z": { "monster": "mon_zombie_tough" } }
+      "furniture": { "y": "f_arcade_machine", "z": "f_exercise", "Z": "f_pool_table" }
     }
   }
 ]

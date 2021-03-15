@@ -34,7 +34,7 @@
         "########|  |......c....."
       ],
       "palettes": [ "mil_outpost_underground" ],
-      "monster": { "Z": { "monster": "mon_zombie_dog" } }
+      "npcs": { "Z": { "class": "raider" } }
     }
   }
 ]

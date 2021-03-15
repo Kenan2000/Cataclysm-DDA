@@ -23,8 +23,8 @@
         "#######=b          <<|> ",
         "#######=--  ----  -----+",
         "#######=C     R|  |     ",
-        "######Hwo      +  +   T ",
-        "######Hws      |  |   T ",
+        "#######wo      +  +   T ",
+        "#######ws      |  |   T ",
         "#######=U     c|  |  cT ",
         "#######=CU  TTT|  |     ",
         "#######===ww==w=++==ggg=",
@@ -33,7 +33,6 @@
         "########################"
       ],
       "palettes": [ "multistory_house", "ground_level" ],
-      "furniture": { "H": "f_dumpster" },
       "set": [ { "square": "terrain", "x": 22, "y": 5, "x2": 23, "y2": 19, "id": "t_concrete_floor" } ]
     }
   }

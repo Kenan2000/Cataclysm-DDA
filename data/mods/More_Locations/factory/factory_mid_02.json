@@ -35,7 +35,7 @@
       ],
       "rotation": [ 0, 3 ],
       "palettes": [ "factory" ],
-      "monster": { "Z": { "monster": "mon_zombie_tough" } }
+      "monster": { "Z": { "monster": "mon_secubot" } }
     }
   }
 ]

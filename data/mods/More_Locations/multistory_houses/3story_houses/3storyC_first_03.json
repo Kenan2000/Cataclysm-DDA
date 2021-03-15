@@ -15,7 +15,7 @@
         "####= p p   p|UCCUC=####",
         "####=             sw####",
         "####=<<      |    ow####",
-        "####= bb     |R   C=HH##",
+        "####= bb     |R   C=####",
         "####= -----  --+---88###",
         "####s>|d d|        N8###",
         "####=---+-|    A   88###",
@@ -32,8 +32,7 @@
         "#################----###",
         "########################"
       ],
-      "palettes": [ "multistory_house", "ground_level" ],
-      "furniture": { "H": "f_dumpster" }
+      "palettes": [ "multistory_house", "ground_level" ]
     }
   }
 ]

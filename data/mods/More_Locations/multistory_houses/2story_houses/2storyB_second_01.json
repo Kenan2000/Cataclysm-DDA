@@ -33,7 +33,7 @@
         "########################"
       ],
       "palettes": [ "multistory_house", "upper_level" ],
-      "terrain": { ",": "t_linoleum_white" }
+      "terrain": { ",": "t_carpet_red" }
     }
   }
 ]
